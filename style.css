@@ -3,8 +3,32 @@
 html{
     font-size: 100%;
 }
+
 body{
     font-family: "Hiragion Kaku Gothic ProN", "Hiragino Sans", "BIZ UDPGothic", sans-serif;
     line-height: 1.7;
     color: #432
 }
+
+a{
+    text-decoration: none;
+}
+
+img{
+    max-width: 100%;
+}
+
+.alignter{
+    text-align: center;
+}
+
+.font-english{
+    font-family: 'philosopher', san-serif;
+    font-weight: normal;
+}
+
+.page-header{
+    width: 210px;
+}
+
+.maimn-nav{}
