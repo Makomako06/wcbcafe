@@ -27,6 +27,13 @@ img{
     font-weight: normal;
 }
 
+.page-title {
+    font-size: 3rem;
+    text-align: center;
+    margin-top: 2rem;
+    line-height: 1.4;
+}
+
 .page-header {
     width: 210px;
 }
