@@ -18,48 +18,14 @@ img{
     max-width: 100%;
 }
 
-.alignter {
+.align-center {
     text-align: center;
-}
-
-.font-english {
-    font-family: 'philosopher', san-serif;
-    font-weight: normal;
-}
-
-.page-title {
-    font-size: 3rem;
-    text-align: center;
-    margin-top: 2rem;
-    line-height: 1.4;
 }
 
 .page-header {
+    padding-top: .5rem;
+}
+
+.logo {
     width: 210px;
-}
-
-.maimn-nav{
-    display: flex;
-    justify-content: center;
-    gap: 2.5rem;
-    font-size: 1.5rem;
-    list-style: none;
-}
-
-.maimn-nav a {
-    color: #432;
-}
-
-.maimn-nav a:hover {
-    color: #0bd;
-}
-
-.cover {
-    background-size: cover;
-    background-position: center bottom;
-    height: 800px;
-}
-
-.cover-home {
-    background-image: url(../images/cover-home-s.webp);
 }
